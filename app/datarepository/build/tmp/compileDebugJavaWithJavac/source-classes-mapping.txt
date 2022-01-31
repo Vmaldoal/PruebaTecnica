@@ -1,0 +1,2 @@
+com/tecnica/datarepository/BuildConfig.java
+ com.tecnica.datarepository.BuildConfig

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/activity_main.xml" value="0.246875" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/custom_spinner_component.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/dialog_loading.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/fragment_heroe_detail.xml" value="0.33" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/fragment_heroes_list.xml" value="0.22" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/fragment_heroes_list2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/row_character_list.xml" value="0.33" />
+        <entry key="..\:/Users/Gamers/AndroidStudioProjects/MarvelViewer/app/src/main/res/layout/row_footer_list.xml" value="0.37341772151898733" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

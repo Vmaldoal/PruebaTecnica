@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titles_margin_top">25dp</dimen>
+    <dimen name="screen_start_margin">10dp</dimen>
+    <dimen name="screen_end_margin">15dp</dimen>
+    <dimen name="title_size">18sp</dimen>
+    <dimen name="character_name_size">25sp</dimen>
+    <dimen name="text_margin_top_title">10dp</dimen>
+    <dimen name="margin_betweens_list">15dp</dimen>
+</resources>

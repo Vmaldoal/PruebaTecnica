@@ -1,0 +1,2 @@
+com/tecnica/domaincontroller/BuildConfig.java
+ com.tecnica.domaincontroller.BuildConfig

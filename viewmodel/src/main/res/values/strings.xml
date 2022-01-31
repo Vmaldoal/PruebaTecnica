@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">viewModel</string>
+
+    <string name="dialog_unknownhostexception_title">Error</string>
+    <string name="dialog_unknownhostexception_description">Error al conectar con el servidor. Inténtelo de nuevo más tarde.</string>
+    <string name="dialog_unknownhostexception_accept">Aceptar</string>
+    <string name="dialog_genericerror_title">Error</string>
+    <string name="dialog_genericerror_description">Error desconocido, disculpe las molestias.</string>
+    <string name="dialog_genericerror_accept">Aceptar</string>
+
+    <string name="fragment_detail_title_description">Description</string>
+    <string name="fragment_detail_title_id">Id</string>
+    <string name="fragment_detail_title_modified">Modified</string>
+    <string name="fragment_detail_dont_description">This character don\'t have description</string>
+</resources>
